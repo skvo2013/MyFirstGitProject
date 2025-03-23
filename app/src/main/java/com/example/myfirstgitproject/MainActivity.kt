@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
             MyFirstGitProjectTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "MyGitHub",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
